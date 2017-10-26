@@ -7,7 +7,7 @@
         
 THAY VÀO ĐÓ SẼ LÀ TOÀI BỘ NỘI DUNG CODE CỦA BUỔI TRAO ĐỔI, GIÚP CÁC BẠN HỆ THỐNG LẠI NỘI DUNG ĐÃ TRÌNH BÀY
         
-        Lab_1: Nguyễn Hữu Quang Vũ
+        Lab_1: Nguyễn Hữu Quang Vũ - Đỗ Việt Hưng
         Lab_2: Vũ Văn Sáng
         Lab_3: Lê Hồng Hải
         Lab_4: Trương Ngọc Tuấn
