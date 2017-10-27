@@ -20,8 +20,8 @@ void createArray() {
 
 	// Khoi tao 2 mang A & B co n phan tu
 	for (i = 0; i < n; i++) {
-		a[i] = rand() % 500 + 10;
-		b[i] = rand() % 500 + 10;
+		a[i] = rand() % 490 + 10;
+		b[i] = rand() % 490 + 10;
 	}
 }
 
